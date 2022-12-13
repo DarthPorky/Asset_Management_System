@@ -4,6 +4,9 @@ This is a web based Asset Management System that has been engineered using larav
 
 Using this system an organisation can be expected to keep track of their assets using the easy user interface and QR Codes.
 
+***<ins>INSTALLATION</ins>***
+
+
 ***<ins>MODULES OF THE SYSTEM</ins>***
 
 <ins>Employee</ins>
