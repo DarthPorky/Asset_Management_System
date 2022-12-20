@@ -5,6 +5,7 @@ This is a web based Asset Management System that has been engineered using larav
 Using this system an organisation can be expected to keep track of their assets using the easy user interface and QR Codes.
 
 ***<ins>SETUP</ins>***
+
 Database - This project runs on a MySQL Database but thanks to Laravel that can be changed (check the documentation on changing env variables to a desired
 database). To easily run MySQL download WAMP or XAMP and create a database called "asset_management".
 Using Artisan cmd tool (inbuilt in Laravel) run the migration command to create relations within the database.
