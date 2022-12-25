@@ -12,6 +12,14 @@ Using Artisan cmd tool (inbuilt in Laravel) run the migration command to create 
 
 ***<ins>MODULES OF THE SYSTEM</ins>***
 
+<ins>Asset</ins>
+An admin can carry out the following actions within the Asset module.
+ - Add
+ - Edit
+ - Delete
+ - View all or a single asset
+ - Assign asset to an employee
+ 
 <ins>Employee</ins>
 An admin can carry out the following actions within the Employee module
  - Add
